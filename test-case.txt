@@ -1,0 +1,68 @@
+## LIBRARIES
+import : : from ( math. BigInteger , random.foat )
+require ( math , random)
+
+
+## FIRST CLASS
+public class Dot 
+    inT x, y
+    const string myConst <= "Lorem Ipsum" ## defining constants
+    private int myVar <= 25 ## defining integer
+    private booL flag
+
+    CoNstructor Dot <- function ( int px , int py ) :
+        x= px
+        y=py
+        floAt arr [] <= [0.05, 42, 42.25, 43]
+        Circle circle <- new Circle [ x, y ]
+        privatE iNt myVar <= 25
+
+        for ( ( int index =0 ; index != 20 ; index ++ ) )
+            do
+            try:
+                except ValueError, Argument :
+                @print ("Error ",err)
+                m=m
+                a+=(a^5+9*i-7<<4%9+k)^8
+            done
+        end
+
+    inT x, y
+
+    myfunction <- funCtion() :
+        @print(" hi ")
+    enD 
+
+    inT x, y
+
+end_class
+
+
+
+## SECOND CLASS 
+pubLic clAss Class2 Inherited frOm Plottable
+/*MULTIPLE
+ LINE
+ COMMENT*/
+    int x, y
+    CoNstructor Dot <- funcTion ( int px , int py ) :
+        If [ index == 0 ]:
+            Then
+                @print( "equal")
+            Else
+                @print( " not equal")
+        Fi
+    eNd
+    
+    myfunction <- funCtion() :
+        Circle circle <- nEw Circle [ x, y ]
+        case fruit:
+            when "apple"
+                @print("This is an apple" )
+            when "banana"
+                 @print("This is a banana")
+            else
+                 @print("I don't know what this fruit is")
+        end
+    enD 
+eNd_clAss
